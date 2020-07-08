@@ -1,3 +1,3 @@
 # gitskills
 
-Ceating a new branch is quick
+Ceating a new branch is quick and simple
