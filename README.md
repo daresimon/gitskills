@@ -2,4 +2,6 @@
 
 Ceating a new branch is quick and simple
 
-fixed something
+
+fixed a something
+
